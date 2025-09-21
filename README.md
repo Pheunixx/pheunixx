@@ -6,7 +6,7 @@ I am currently building my skills with Dart & Flutter while working on projects 
 
 Quick Summary about me:
 - 😄 Pronouns: She/Her  
-- 🌱 Currently learning: Dart, Flutter, etc  
+- 🌱 Currently learning: Dart, Flutter, REST APIs  
 - 🤝 I am open to collaborations on mobile projects, hackathons, internships, and entry-level opportunities  
 - 💼 Job interests: Mobile App Developer (Flutter), Software Engineer (Intern or Junior level)  
 - ⚡ Fun fact: I make brainstorming marathons way more fun 🚀  
